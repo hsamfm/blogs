@@ -1,4 +1,19 @@
 {
-    "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
+    "/js/app.js": "/js/app.js?id=678fc1a5189dda2243a6",
+    "/css/app.css": "/css/app.css?id=3d4f06a53acc7b228bcc",
+    "/css/font.css": "/css/font.css?id=da4462b4910637918986",
+    "/css/Nunito-Black.ttf": "/css/Nunito-Black.ttf?id=67d1e386499bfa2de7f6",
+    "/css/Nunito-BlackItalic.ttf": "/css/Nunito-BlackItalic.ttf?id=25efe48a669dd3ffdb66",
+    "/css/Nunito-Bold.ttf": "/css/Nunito-Bold.ttf?id=03cff4709cd2ec75161e",
+    "/css/Nunito-BoldItalic.ttf": "/css/Nunito-BoldItalic.ttf?id=b0b9403bdb5d994a5bf5",
+    "/css/Nunito-ExtraBold.ttf": "/css/Nunito-ExtraBold.ttf?id=cfded505d76d645a4c4e",
+    "/css/Nunito-ExtraBoldItalic.ttf": "/css/Nunito-ExtraBoldItalic.ttf?id=e8cd7222a4e7a7290635",
+    "/css/Nunito-ExtraLight.ttf": "/css/Nunito-ExtraLight.ttf?id=5e80616add0a36b1336d",
+    "/css/Nunito-ExtraLightItalic.ttf": "/css/Nunito-ExtraLightItalic.ttf?id=37b68c03020e813c4f75",
+    "/css/Nunito-Italic.ttf": "/css/Nunito-Italic.ttf?id=9ef85908f49cddc1d165",
+    "/css/Nunito-Light.ttf": "/css/Nunito-Light.ttf?id=0234b6c79aaf0c296032",
+    "/css/Nunito-LightItalic.ttf": "/css/Nunito-LightItalic.ttf?id=f59c5c6d1917777c784e",
+    "/css/Nunito-Regular.ttf": "/css/Nunito-Regular.ttf?id=00161d93bb8b2e11999c",
+    "/css/Nunito-SemiBold.ttf": "/css/Nunito-SemiBold.ttf?id=f1b506e519cad8b5ab6a",
+    "/css/Nunito-SemiBoldItalic.ttf": "/css/Nunito-SemiBoldItalic.ttf?id=bb72b2338cb8ebdf7e64"
 }
